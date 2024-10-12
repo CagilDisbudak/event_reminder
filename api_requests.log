@@ -1,0 +1,1387 @@
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates with glob **/*.
+Watching dir C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\locale with glob **/*.mo.
+Watching dir C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale with glob **/*.mo.
+Watching dir C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\locale with glob **/*.mo.
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\hashable.py first seen with mtime 1728671612.3400602
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1728671612.1964197
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\_colorize.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\_compression.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1728671612.2179794
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\forms\widgets.py first seen with mtime 1728671612.27556
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_socket.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\humanize_datetime.py first seen with mtime 1728671617.8440132
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1728671612.2610426
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1728671612.2516532
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\socketserver.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\http\server.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\validators.py first seen with mtime 1728671612.178897
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1728671610.2997959
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1728671612.3101764
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\forms\formsets.py first seen with mtime 1728671612.2735593
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\__init__.py first seen with mtime 1728671610.5778968
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\serializers.py first seen with mtime 1728677336.9884422
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1728671611.9586856
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\pathlib\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\signing.py first seen with mtime 1728671612.178897
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\_abc.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\files.py first seen with mtime 1728671612.1849027
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1728671610.7502887
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1728671612.258654
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\http\response.py first seen with mtime 1728671612.3091013
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1728671612.2109778
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1728671612.1799018
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\asyncio.py first seen with mtime 1728671612.334003
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\models.py first seen with mtime 1728728702.7937522
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\socket.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\context.py first seen with mtime 1728671612.3131816
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\operations.py first seen with mtime 1728671612.2441366
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\schema.py first seen with mtime 1728671612.2441366
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\transaction.py first seen with mtime 1728671612.2200027
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\http\__init__.py first seen with mtime 1728671612.3071034
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\wsgiref\headers.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\weakref.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\urllib\error.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\secrets.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py first seen with mtime 1728671617.730538
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\hmac.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\cli.py first seen with mtime 1728671610.297772
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\response.py first seen with mtime 1728671612.3171773
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1728671611.1446447
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\conf\__init__.py first seen with mtime 1728671610.5801384
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1728671612.3502045
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\version.py first seen with mtime 1728671612.3470573
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\utils.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\shutil.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\reverse.py first seen with mtime 1728671617.737537
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\dates.py first seen with mtime 1728671612.3370051
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\glob.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\serializer_helpers.py first seen with mtime 1728671617.8460114
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\re\_compiler.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\queue.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1728671612.2556531
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1728671612.2670424
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1728671610.3048024
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\wsgiref\util.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1728671612.1743927
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1728671612.2640421
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sites\requests.py first seen with mtime 1728671612.071111
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\base\introspection.py first seen with mtime 1728671612.225003
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\autoreload.py first seen with mtime 1728671612.3131816
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\converters.py first seen with mtime 1728671612.3310044
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1728671611.7375753
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\wsgiref\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1728671612.2210047
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\asgiref\__init__.py first seen with mtime 1728671610.4821582
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1728671612.2630422
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1728671610.7447796
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\_opcode_metadata.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\middleware\cache.py first seen with mtime 1728671612.3091013
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1728671612.3542035
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\checks.py first seen with mtime 1728671617.7293222
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\schemas\openapi.py first seen with mtime 1728671617.7921731
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1728671612.2029345
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\base\features.py first seen with mtime 1728671612.225003
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\compatibility\django_4_0.py first seen with mtime 1728671612.1879032
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1728671612.2650423
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1728671612.1693866
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1728671612.3420603
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\encodings\aliases.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1728671612.262045
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\__init__.py first seen with mtime 1728671612.3502045
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\errors.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\views.py first seen with mtime 1728671611.146643
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1728671612.1869025
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1728671611.1386378
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\utils.py first seen with mtime 1728671612.2210047
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\string.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\platform.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\base\schema.py first seen with mtime 1728671612.226004
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1728671611.0396714
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1728671612.188903
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\windows_utils.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\tree.py first seen with mtime 1728671612.3470573
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1728671612.2640421
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\contextvars.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1728671612.1839027
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py first seen with mtime 1728671617.7440474
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\cache.py first seen with mtime 1728671612.335004
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\dataclasses.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1728671612.3450592
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1728671612.1974187
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\defaults.py first seen with mtime 1728671612.3522046
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\crypto.py first seen with mtime 1728671612.3360069
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\decimal.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\mime\message.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1728671612.216978
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\model_meta.py first seen with mtime 1728671617.8460114
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1728671612.1859045
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\zoneinfo\_common.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1728671612.224008
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\json\scanner.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\postgres\forms\hstore.py first seen with mtime 1728671611.7495928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\__init__.py first seen with mtime 1728671612.2200027
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1728671612.2049332
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\postgres\lookups.py first seen with mtime 1728671611.7420864
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\middleware\security.py first seen with mtime 1728671612.3121817
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\_policybase.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1728671611.260037
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\copyreg.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1728671611.0396714
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\_header_value_parser.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\base\creation.py first seen with mtime 1728671612.224008
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1728671612.2670424
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1728671612.2451367
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\iterators.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1728671611.1426435
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1728671611.2588353
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\pickle.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1728671610.2987714
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1728671612.1799018
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\urllib\parse.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\ctypes\_endian.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_subprocess.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1728671612.269547
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\fractions.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\management\base.py first seen with mtime 1728671612.2029345
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\zoneinfo\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\reprlib.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templatetags\rest_framework.py first seen with mtime 1728671617.8420131
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\paginator.py first seen with mtime 1728671612.1773927
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\conf.py first seen with mtime 1728671612.3310044
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1728671610.7437797
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1728671612.3216891
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\constants.py first seen with mtime 1728671612.2536535
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\response.py first seen with mtime 1728671617.737537
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1728671611.26104
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\_os.py first seen with mtime 1728671612.333007
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\signals.py first seen with mtime 1728671612.258654
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1728671610.5831435
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\encodings\utf_8.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1728671611.139643
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\__init__.py first seen with mtime 1728671617.8420131
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1728671611.7345777
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\negotiation.py first seen with mtime 1728671617.7345374
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\locks.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\apps\config.py first seen with mtime 1728671610.5788975
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1728671612.1974187
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\threading.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\__init__.py first seen with mtime 1728671617.7283204
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1728671612.2536535
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\selectors.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\message.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\schemas\inspectors.py first seen with mtime 1728671617.791178
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\lzma.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\locale.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\wsgiref\handlers.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\forms\renderers.py first seen with mtime 1728671612.2745614
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1728671612.1809015
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\manage.py first seen with mtime 1728677184.0550973
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\staggered.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\request.py first seen with mtime 1728671617.737537
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\protocols.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\mime\multipart.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1728671612.269042
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_futures.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\html\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\urls.py first seen with mtime 1728728101.3223877
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\contentmanager.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\options.py first seen with mtime 1728671612.2576528
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\templatetags\static.py first seen with mtime 1728671612.3246891
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1728671612.3532045
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\forms\fields.py first seen with mtime 1728671612.2725594
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1728671610.7447796
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1728671611.2518334
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\header.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\storage\memory.py first seen with mtime 1728671612.1954203
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1728671612.3552043
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\html\parser.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\event_reminder\__init__.py first seen with mtime 1728677184.0570984
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\storage\handler.py first seen with mtime 1728671612.1954203
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1728671612.2725594
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\postgres\utils.py first seen with mtime 1728671611.7440865
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\__init__.py first seen with mtime 1728677209.8440435
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\concurrent\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\asgiref\sync.py first seen with mtime 1728671610.4841597
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1728671612.1733928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\forms\__init__.py first seen with mtime 1728671612.2725594
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1254.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1728671612.3380072
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1728671612.2516532
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\html.py first seen with mtime 1728671617.8440132
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_overlapped.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\csrf.py first seen with mtime 1728671612.3512049
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1728671612.1849027
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1728671612.226004
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\re\_casefix.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\mimetypes.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\authentication.py first seen with mtime 1728671617.7293222
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\sslproto.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1728671612.3370051
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\duration.py first seen with mtime 1728671612.3380072
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1728671612.3450592
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1728671612.357205
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1728671611.143644
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\exceptions.py first seen with mtime 1728671617.731538
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1728671610.3028035
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\generator.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1728671610.748778
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1728671612.2715592
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1728671612.3246891
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\formatting.py first seen with mtime 1728671617.8440132
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\__init__.py first seen with mtime 1728671612.2411368
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1728671610.2987714
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\argparse.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1728671612.1703963
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1728671612.2526531
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1728671610.742779
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\streams.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templatetags\__init__.py first seen with mtime 1728671617.8410137
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\signal.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1728671611.9571784
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1728671612.1904147
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\difflib.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1728671612.2680418
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\zoneinfo\_tzpath.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\postgres\forms\array.py first seen with mtime 1728671611.7495928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\compatibility\__init__.py first seen with mtime 1728671612.1879032
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1728671612.2230077
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\quopri.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1728671612.2516532
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1728671612.1839027
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1728671611.0371609
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1728671612.1964197
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\storage\mixins.py first seen with mtime 1728671612.1954203
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1728671611.735576
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\statistics.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1728671611.9586856
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\utils.py first seen with mtime 1728671612.332004
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\debug.py first seen with mtime 1728671612.3512049
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1728671612.2650423
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\feedparser.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\base64mime.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1728671610.5801384
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1728671612.2506483
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\copy.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1728671611.26104
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\tokenize.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\representation.py first seen with mtime 1728671617.8460114
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1728671612.2705538
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1728671610.296773
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1728671612.343058
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\pathlib\_local.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1728671612.3440585
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1728671612.2705538
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1728671612.3587105
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\http\request.py first seen with mtime 1728671612.3081024
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\schemas\coreapi.py first seen with mtime 1728671617.7901745
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\ssl.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1728671612.2189755
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1728671612.3552043
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\log.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\postgres\__init__.py first seen with mtime 1728671611.739081
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1728671612.216978
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\http.py first seen with mtime 1728671612.341062
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\locks.py first seen with mtime 1728671612.1914198
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\getpass.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1728671612.1974187
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\transports.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\views\main.py first seen with mtime 1728671611.0406716
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\encoding.py first seen with mtime 1728671612.3390071
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1728671612.260046
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1728671612.3440585
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\settings.py first seen with mtime 1728671617.7400453
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\models.py first seen with mtime 1728671611.9596946
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\html.py first seen with mtime 1728671612.341062
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\traceback.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\message.py first seen with mtime 1728671612.1989276
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\schemas\__init__.py first seen with mtime 1728671617.7901745
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1728671612.3226895
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\logging\config.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1728671612.1859045
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\inspect.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\storage\__init__.py first seen with mtime 1728671612.193421
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\calendar.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\middleware\common.py first seen with mtime 1728671612.3101764
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\_encoded_words.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\relations.py first seen with mtime 1728671617.7365384
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\selector_events.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\subprocess.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\library.py first seen with mtime 1728671612.3161771
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\urllib\response.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\ipaddress.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1728671611.7375753
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\mixins.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\log.py first seen with mtime 1728671612.343058
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_decimal.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_hashlib.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1728671612.1829014
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py first seen with mtime 1728671612.3380072
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1728671610.3048024
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py first seen with mtime 1728671612.2526531
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1728671611.9606917
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1728671612.216978
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\multiprocessing\reduction.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\multiprocessing\process.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1728671612.3360069
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1728671612.1809015
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1728671610.7477808
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\fnmatch.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\http\client.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1728671611.1406467
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1728671612.2566526
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\base\validation.py first seen with mtime 1728671612.227003
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1728671612.2496421
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1728671610.3008
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\move.py first seen with mtime 1728671612.1914198
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\subprocess.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\temp.py first seen with mtime 1728671612.1914198
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1728671612.3141768
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\windows_events.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py first seen with mtime 1728671612.2411368
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\hashlib.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_wmi.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1728671612.1753926
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\storage\filesystem.py first seen with mtime 1728671612.194419
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1728671611.0386648
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_lzma.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_uuid.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1728671612.1869025
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1728671611.7365756
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1728671612.1733928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\features.py first seen with mtime 1728671612.2431357
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\exceptions.py first seen with mtime 1728671612.3161771
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1728671610.3028035
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1728671610.297772
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admindocs\views.py first seen with mtime 1728671611.0426702
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1728671612.2630422
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\backends\base.py first seen with mtime 1728671612.3186827
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\forms\forms.py first seen with mtime 1728671612.2735593
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1728671611.139643
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\tokens.py first seen with mtime 1728671611.145645
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1728671610.745778
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1728671612.3480592
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\base.py first seen with mtime 1728671612.1904147
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\views.py first seen with mtime 1728728057.7400389
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\multiprocessing\context.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1728671612.3370051
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\_base.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\re\_constants.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1728671611.1386378
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\encoders.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\mixins.py first seen with mtime 1728671617.733537
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\_markupbase.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1728671611.1446447
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\event_reminder\urls.py first seen with mtime 1728679627.039083
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\base64.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\quoprimime.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1728671612.2650423
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1728671611.2630365
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1728671612.3236887
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\headerregistry.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\mediatypes.py first seen with mtime 1728671617.845013
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1728671612.2660415
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\gettext.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\typing.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\logging\handlers.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1728671612.3171773
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\opcode.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_ssl.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1728671612.262045
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1728671612.2556531
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\datetime.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\heapq.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\select.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\creation.py first seen with mtime 1728671612.2421367
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1728671612.3091013
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\textwrap.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\sqlite3\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1728671610.7477808
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\ddl_references.py first seen with mtime 1728671612.2220025
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\timezone.py first seen with mtime 1728671612.3470573
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1728671612.3310044
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\numbers.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\encodings\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\engine.py first seen with mtime 1728671612.3151774
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\gzip.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\utils.py first seen with mtime 1728671610.2997959
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\inspect.py first seen with mtime 1728671612.341062
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\schemas\generators.py first seen with mtime 1728671617.791178
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\ctypes\wintypes.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\generated.py first seen with mtime 1728671612.2610426
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\unicodedata.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\exceptions.py first seen with mtime 1728671612.1773927
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\choices.py first seen with mtime 1728671612.335004
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\sysconfig\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\sqlite3\dbapi2.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1728671612.1733928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\wsgiref\simple_server.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1728671610.3008
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admindocs\utils.py first seen with mtime 1728671611.0416713
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\html\entities.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\timesince.py first seen with mtime 1728671612.3460581
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1728671612.1894078
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1728671612.1989276
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\postgres\search.py first seen with mtime 1728671611.743086
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\sql.py first seen with mtime 1728671610.2997959
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1728671612.1859045
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\storage\base.py first seen with mtime 1728671612.194419
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\forms\models.py first seen with mtime 1728671612.2745614
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\linecache.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\trsock.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1728671612.2506483
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1728671611.735576
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1728671612.3542035
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1728671612.332004
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\__init__.py first seen with mtime 1728671612.1763923
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\text.py first seen with mtime 1728671612.3460581
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\uuid.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\enum.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\field_mapping.py first seen with mtime 1728671617.843013
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1728671612.2536535
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\token.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1728671612.269547
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\i18n.py first seen with mtime 1728671612.3522046
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1728671612.3216891
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\management\color.py first seen with mtime 1728671612.203933
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1728671611.9606917
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1728671612.1924193
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\tempfile.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\taskgroups.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1728671612.2660415
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_queue.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1728671612.3091013
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\admin.py first seen with mtime 1728677209.841781
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\client.py first seen with mtime 1728671612.2421367
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1728671612.2451367
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\introspection.py first seen with mtime 1728671612.2431357
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\apps.py first seen with mtime 1728677209.842782
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\keyword.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\smartif.py first seen with mtime 1728671612.3171773
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\permissions.py first seen with mtime 1728671617.7355423
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\status.py first seen with mtime 1728671617.7400453
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\pprint.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1728671611.0386648
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\decorators.py first seen with mtime 1728671611.1416428
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sites\__init__.py first seen with mtime 1728671612.0675995
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1728671611.0371609
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1728671612.3246891
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1728671611.7365756
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\safestring.py first seen with mtime 1728671612.3450592
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\forms.py first seen with mtime 1728671611.1426435
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\collections\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\urllib\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py first seen with mtime 1728671612.2576528
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1728671612.325689
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\http\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1728671612.3587105
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\__init__.py first seen with mtime 1728671612.3121817
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1728671612.3380072
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\mime\base.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\warnings.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1728671612.1713967
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\_parseaddr.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\__init__.py first seen with mtime 1728671612.333007
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\breadcrumbs.py first seen with mtime 1728671617.8420131
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1728671610.3028035
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\parser.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\event_reminder\settings.py first seen with mtime 1728726285.4587145
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\validators.py first seen with mtime 1728671617.743047
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\metadata.py first seen with mtime 1728671617.733537
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1728671612.3216891
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\compat.py first seen with mtime 1728671617.730538
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1728671611.3743043
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\operator.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1728671611.9596946
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py first seen with mtime 1728671612.3131816
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py first seen with mtime 1728671612.2566526
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1728671611.9586856
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\coroutines.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1728671612.3151774
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\contextlib.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\connection.py first seen with mtime 1728671612.3360069
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\urls.py first seen with mtime 1728671617.8470132
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\mime\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\timezone.py first seen with mtime 1728671617.8470132
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\http\cookie.py first seen with mtime 1728671612.3071034
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\graphlib.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1728671610.3038013
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\translation\reloader.py first seen with mtime 1728671612.349058
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\images.py first seen with mtime 1728671612.1904147
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\ctypes\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1728671611.0371609
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loaders\cached.py first seen with mtime 1728671612.3226895
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\models.py first seen with mtime 1728671611.1446447
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\multiprocessing\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_tasks.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\base\base.py first seen with mtime 1728671612.2230077
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\postgresql\__init__.py first seen with mtime 1728671612.2370782
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\bisect.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\json.py first seen with mtime 1728671617.845013
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1728671612.1924193
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1728671612.1974187
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\backends\django.py first seen with mtime 1728671612.3196883
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\futures.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1728671612.3236887
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1728671610.7492828
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1728671612.1894078
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1728671612.1819012
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1728671610.297772
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\charset.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\_compat_pickle.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\utils.py first seen with mtime 1728671612.3171773
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\mime\text.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\wsgi.py first seen with mtime 1728671612.1799018
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1728671612.247138
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1728671612.2610426
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py first seen with mtime 1728671612.3161771
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\shortcuts.py first seen with mtime 1728671610.5788975
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1728671610.3018005
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\nturl2path.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\apps.py first seen with mtime 1728671617.7293222
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\validators.py first seen with mtime 1728671611.146643
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\_weakrefset.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\pkgutil.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1728671611.7345777
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1728671610.745778
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_asyncio.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\utils.py first seen with mtime 1728671612.258654
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\forms\utils.py first seen with mtime 1728671612.27556
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admindocs\__init__.py first seen with mtime 1728671611.0406716
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\database.py first seen with mtime 1728671612.1849027
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\static.py first seen with mtime 1728671612.3532045
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\signals.py first seen with mtime 1728671612.2220025
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\_functions.py first seen with mtime 1728671612.2411368
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1728671612.1713967
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1728671612.1703963
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1728671610.745778
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1728671612.2220025
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\functools.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\parsers.py first seen with mtime 1728671617.7355423
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1728671612.357205
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\fields.py first seen with mtime 1728671617.732537
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1728671612.260046
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1728671612.2496421
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\ast.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1728671612.3081024
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1728671612.2526531
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\postgres\validators.py first seen with mtime 1728671611.7440865
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\policy.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\base.py first seen with mtime 1728671612.3300073
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\random.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\logging\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1728671612.2189755
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\http\cookies.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\list.py first seen with mtime 1728671612.3597167
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\timeouts.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\bz2.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1728671612.188903
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\utils.py first seen with mtime 1728671612.193421
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\pathlib\_abc.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\renderers.py first seen with mtime 1728671617.7365384
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1728671612.0721114
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\asgiref\local.py first seen with mtime 1728671610.4831567
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_ctypes.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\constants.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_zoneinfo.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1728671611.0386648
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\views\decorators.py first seen with mtime 1728671611.0396714
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_bz2.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\dis.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1728671610.3038013
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\format_helpers.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\__init__.py first seen with mtime 1728671612.3300073
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\utils\encoders.py first seen with mtime 1728671617.843013
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1728671610.7467782
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1728671612.1879032
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1728671611.260037
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py first seen with mtime 1728671612.357205
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1728671611.2620368
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1728671610.4821582
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py first seen with mtime 1728671617.7390401
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\formats.py first seen with mtime 1728671612.3390071
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1728671612.3186827
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\functional.py first seen with mtime 1728671612.3400602
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1728671610.7492828
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\signals.py first seen with mtime 1728671612.1773927
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\DLLs\_sqlite3.pyd first seen with mtime 1728286046.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1728671611.260037
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\schemas\utils.py first seen with mtime 1728671617.7921731
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\apps\__init__.py first seen with mtime 1728671610.5788975
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1728671610.3018005
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\email\mime\nonmultipart.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\struct.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\apps\registry.py first seen with mtime 1728671610.5801384
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1728671612.334003
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1728671611.1406467
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\enums.py first seen with mtime 1728671612.2546537
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\asyncio\exceptions.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1728671610.7467782
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\types.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework first seen with mtime 1728671617.8365026
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\admin first seen with mtime 1728671617.819992
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\admin.html first seen with mtime 1728671617.8159068
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\api.html first seen with mtime 1728671617.8159068
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\base.html first seen with mtime 1728671617.8159068
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs first seen with mtime 1728671617.8239923
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\filters first seen with mtime 1728671617.8269928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal first seen with mtime 1728671617.830504
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline first seen with mtime 1728671617.8355043
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\login.html first seen with mtime 1728671617.816905
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\login_base.html first seen with mtime 1728671617.816905
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\pagination first seen with mtime 1728671617.8365026
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\raw_data_form.html first seen with mtime 1728671617.816905
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\schema.js first seen with mtime 1728671617.8179035
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical first seen with mtime 1728671617.8410137
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\admin\detail.html first seen with mtime 1728671617.8179035
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\admin\dict_value.html first seen with mtime 1728671617.8189046
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\admin\list.html first seen with mtime 1728671617.8189046
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\admin\list_value.html first seen with mtime 1728671617.8189046
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\admin\simple_list_value.html first seen with mtime 1728671617.819992
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\auth first seen with mtime 1728671617.8229914
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\document.html first seen with mtime 1728671617.819992
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\error.html first seen with mtime 1728671617.8209915
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\index.html first seen with mtime 1728671617.8209915
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\interact.html first seen with mtime 1728671617.8219917
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\langs first seen with mtime 1728671617.8249924
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\link.html first seen with mtime 1728671617.8219917
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\sidebar.html first seen with mtime 1728671617.8219917
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\filters\base.html first seen with mtime 1728671617.8259928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\filters\ordering.html first seen with mtime 1728671617.8259928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\filters\search.html first seen with mtime 1728671617.8269928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\checkbox.html first seen with mtime 1728671617.8269928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\checkbox_multiple.html first seen with mtime 1728671617.8279922
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\dict_field.html first seen with mtime 1728671617.8279922
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\fieldset.html first seen with mtime 1728671617.8279922
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\form.html first seen with mtime 1728671617.8289921
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\input.html first seen with mtime 1728671617.8294976
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\list_field.html first seen with mtime 1728671617.8294976
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\list_fieldset.html first seen with mtime 1728671617.8294976
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\radio.html first seen with mtime 1728671617.830504
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\select.html first seen with mtime 1728671617.830504
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\select_multiple.html first seen with mtime 1728671617.830504
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\horizontal\textarea.html first seen with mtime 1728671617.8315032
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\checkbox.html first seen with mtime 1728671617.8315032
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\checkbox_multiple.html first seen with mtime 1728671617.8315032
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\dict_field.html first seen with mtime 1728671617.8325038
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\fieldset.html first seen with mtime 1728671617.8325038
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\form.html first seen with mtime 1728671617.8325038
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\input.html first seen with mtime 1728671617.8335028
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\list_field.html first seen with mtime 1728671617.8335028
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\list_fieldset.html first seen with mtime 1728671617.8345025
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\radio.html first seen with mtime 1728671617.8345025
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\select.html first seen with mtime 1728671617.8345025
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\select_multiple.html first seen with mtime 1728671617.8355043
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\inline\textarea.html first seen with mtime 1728671617.8355043
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\pagination\numbers.html first seen with mtime 1728671617.8355043
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\pagination\previous_and_next.html first seen with mtime 1728671617.8365026
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\checkbox.html first seen with mtime 1728671617.8365026
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\checkbox_multiple.html first seen with mtime 1728671617.8375022
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\dict_field.html first seen with mtime 1728671617.8375022
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\fieldset.html first seen with mtime 1728671617.8375022
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\form.html first seen with mtime 1728671617.8375022
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\input.html first seen with mtime 1728671617.839007
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\list_field.html first seen with mtime 1728671617.839007
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\list_fieldset.html first seen with mtime 1728671617.839007
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\radio.html first seen with mtime 1728671617.840017
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\select.html first seen with mtime 1728671617.840017
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\select_multiple.html first seen with mtime 1728671617.8410137
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\vertical\textarea.html first seen with mtime 1728671617.8410137
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\auth\basic.html first seen with mtime 1728671617.8229914
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\auth\session.html first seen with mtime 1728671617.8229914
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\auth\token.html first seen with mtime 1728671617.8229914
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\langs\javascript-intro.html first seen with mtime 1728671617.8239923
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\langs\javascript.html first seen with mtime 1728671617.8239923
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\langs\python-intro.html first seen with mtime 1728671617.8239923
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\langs\python.html first seen with mtime 1728671617.8249924
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\langs\shell-intro.html first seen with mtime 1728671617.8249924
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\templates\rest_framework\docs\langs\shell.html first seen with mtime 1728671617.8259928
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\zh_TW\LC_MESSAGES\django.mo first seen with mtime 1728671617.787662
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\zh_Hant\LC_MESSAGES\django.mo first seen with mtime 1728671617.787662
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\zh_Hans\LC_MESSAGES\django.mo first seen with mtime 1728671617.787662
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\zh_CN\LC_MESSAGES\django.mo first seen with mtime 1728671617.7866611
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\vi\LC_MESSAGES\django.mo first seen with mtime 1728671617.7856627
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\uk\LC_MESSAGES\django.mo first seen with mtime 1728671617.7856627
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\tr_TR\LC_MESSAGES\django.mo first seen with mtime 1728671617.7846606
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\tr\LC_MESSAGES\django.mo first seen with mtime 1728671617.7836614
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\th\LC_MESSAGES\django.mo first seen with mtime 1728671617.7836614
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\sv\LC_MESSAGES\django.mo first seen with mtime 1728671617.7826595
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\sl\LC_MESSAGES\django.mo first seen with mtime 1728671617.7816606
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\sk\LC_MESSAGES\django.mo first seen with mtime 1728671617.7816606
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ru_RU\LC_MESSAGES\django.mo first seen with mtime 1728671617.78066
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ru\LC_MESSAGES\django.mo first seen with mtime 1728671617.78066
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ro\LC_MESSAGES\django.mo first seen with mtime 1728671617.779655
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\pt_PT\LC_MESSAGES\django.mo first seen with mtime 1728671617.7781515
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\pt_BR\LC_MESSAGES\django.mo first seen with mtime 1728671617.7781515
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\pt\LC_MESSAGES\django.mo first seen with mtime 1728671617.7771509
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\pl\LC_MESSAGES\django.mo first seen with mtime 1728671617.7771509
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\no\LC_MESSAGES\django.mo first seen with mtime 1728671617.77615
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\nn\LC_MESSAGES\django.mo first seen with mtime 1728671617.775151
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\nl\LC_MESSAGES\django.mo first seen with mtime 1728671617.775151
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ne_NP\LC_MESSAGES\django.mo first seen with mtime 1728671617.7736747
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\nb\LC_MESSAGES\django.mo first seen with mtime 1728671617.7736747
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\mk\LC_MESSAGES\django.mo first seen with mtime 1728671617.7726762
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\lv\LC_MESSAGES\django.mo first seen with mtime 1728671617.7726762
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\lt\LC_MESSAGES\django.mo first seen with mtime 1728671617.7716744
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ko_KR\LC_MESSAGES\django.mo first seen with mtime 1728671617.7706754
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ja\LC_MESSAGES\django.mo first seen with mtime 1728671617.7706754
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\it\LC_MESSAGES\django.mo first seen with mtime 1728671617.7696693
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\id\LC_MESSAGES\django.mo first seen with mtime 1728671617.7696693
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\hy\LC_MESSAGES\django.mo first seen with mtime 1728671617.7681646
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\hu\LC_MESSAGES\django.mo first seen with mtime 1728671617.7681646
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\he_IL\LC_MESSAGES\django.mo first seen with mtime 1728671617.767165
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\gl_ES\LC_MESSAGES\django.mo first seen with mtime 1728671617.7661653
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\gl\LC_MESSAGES\django.mo first seen with mtime 1728671617.7661653
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\fr_CA\LC_MESSAGES\django.mo first seen with mtime 1728671617.7651658
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\fr\LC_MESSAGES\django.mo first seen with mtime 1728671617.7651658
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\fi\LC_MESSAGES\django.mo first seen with mtime 1728671617.7641666
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\fa_IR\LC_MESSAGES\django.mo first seen with mtime 1728671617.7631645
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\fa\LC_MESSAGES\django.mo first seen with mtime 1728671617.7631645
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\et\LC_MESSAGES\django.mo first seen with mtime 1728671617.7621655
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\es\LC_MESSAGES\django.mo first seen with mtime 1728671617.7611651
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\en_US\LC_MESSAGES\django.mo first seen with mtime 1728671617.7611651
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\en_CA\LC_MESSAGES\django.mo first seen with mtime 1728671617.7601655
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\en_AU\LC_MESSAGES\django.mo first seen with mtime 1728671617.7601655
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\en\LC_MESSAGES\django.mo first seen with mtime 1728671617.7591298
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\el_GR\LC_MESSAGES\django.mo first seen with mtime 1728671617.7591298
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\el\LC_MESSAGES\django.mo first seen with mtime 1728671617.7581303
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\de\LC_MESSAGES\django.mo first seen with mtime 1728671617.757131
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\da\LC_MESSAGES\django.mo first seen with mtime 1728671617.7561314
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\cs\LC_MESSAGES\django.mo first seen with mtime 1728671617.7561314
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ca_ES\LC_MESSAGES\django.mo first seen with mtime 1728671617.7551303
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ca\LC_MESSAGES\django.mo first seen with mtime 1728671617.7541296
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\bg\LC_MESSAGES\django.mo first seen with mtime 1728671617.7541296
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\be\LC_MESSAGES\django.mo first seen with mtime 1728671617.7531307
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\az\LC_MESSAGES\django.mo first seen with mtime 1728671617.7521322
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ar\LC_MESSAGES\django.mo first seen with mtime 1728671617.7521322
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\locale\ach\LC_MESSAGES\django.mo first seen with mtime 1728671617.7511313
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1728671612.065599
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1728671611.2558339
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1728671611.3753018
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1728671611.3763037
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1728671611.2578387
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1728671611.2558339
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1728671610.9678662
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1728671611.2558339
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1728671612.247138
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1728671611.2548363
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1728671611.3763037
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1728671611.2548363
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1728671611.2568338
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1728671612.0645993
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\event_reminder\wsgi.py first seen with mtime 1728677184.0570984
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\migrations\__init__.py first seen with mtime 1728677209.8449988
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1728671612.248137
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1728671611.2548363
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1728671611.9626932
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1728671610.9678662
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1728671611.2538333
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1728671612.2461371
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1728671611.2538333
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\stringprep.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1728671612.2461371
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1728671610.966866
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\encodings\idna.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1728671610.9678662
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1728671611.2578387
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1728671612.2680418
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1728671611.2568338
+File C:\Users\cdisb\OneDrive\Masaüstü\Django Project\event_reminder\reminder\migrations\0001_initial.py first seen with mtime 1728677285.1164424
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1728671611.2568338
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'events/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'events/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>
+Not Found: /events/
+"GET /events/ HTTP/1.1" 404 2351
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2363
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1728671611.9606917
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1728671611.739081
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1728671611.739081
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1728671611.7375753
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'events/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'events/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>
+Not Found: /events/
+"GET /events/ HTTP/1.1" 404 2351
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'events/api'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'events/api'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>
+Not Found: /events/api
+"GET /events/api HTTP/1.1" 404 2360
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'events/api/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>]], 'path': 'events/api/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>
+Not Found: /events/api/
+"GET /events/api/ HTTP/1.1" 404 2363
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 705, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>, <URLPattern 'events/' [name='event-list-create']>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>, <URLPattern 'events/<int:pk>/' [name='event-detail']>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>, <URLPattern 'events/upcoming/' [name='upcoming-events']>], [<URLResolver <module 'reminder.urls' from 'C:\\Users\\cdisb\\OneDrive\\Masaüstü\\Django Project\\event_reminder\\reminder\\urls.py'> (None:None) 'api/'>, <URLPattern 'events/category/<str:categoryName>/' [name='events-by-category']>]], 'path': 'api/'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )  # missing attribute
+    ^
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Not Found: /api/
+"GET /api/ HTTP/1.1" 404 3327
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+"GET /static/admin/css/base.css HTTP/1.1" 200 22092
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\resources\_itertools.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\resources\readers.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\resources\abc.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\zipfile\_path\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\zipfile\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\conf\locale\en\formats.py first seen with mtime 1728671610.6096807
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\tzdata\__init__.py first seen with mtime 1728671610.0345812
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\resources\_functional.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1728671611.1416428
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\context_processors.py first seen with mtime 1728671612.3141768
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\readers.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\resources\_adapters.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\conf\locale\en\__init__.py first seen with mtime 1728671610.6086757
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\resources\__init__.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\importlib\resources\_common.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1728671612.1713967
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\forms.py first seen with mtime 1728671610.7467782
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1728671611.735576
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\zipfile\_path\glob.py first seen with mtime 1728286008.0
+File C:\Users\cdisb\AppData\Local\Programs\Python\Python313\Lib\site-packages\tzdata\zoneinfo\__init__.py first seen with mtime 1728671610.048789
+POST /events/ - Creating a new event
+Failed to create event: {'date': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')]}
+Bad Request: /api/events/
+"POST /api/events/ HTTP/1.1" 400 81
+POST /events/ - Creating a new event
+(0.001) INSERT INTO "reminder_event" ("title", "description", "date", "time", "category") VALUES ('Doctor Appointment', 'Visit the dentist', '2024-10-15', '14:00:00', 'Health') RETURNING "reminder_event"."id"; args=('Doctor Appointment', 'Visit the dentist', '2024-10-15', '14:00:00', 'Health'); alias=default
+Event created successfully
+"POST /api/events/ HTTP/1.1" 201 129
+(0.000) SELECT "reminder_event"."id", "reminder_event"."title", "reminder_event"."description", "reminder_event"."date", "reminder_event"."time", "reminder_event"."category" FROM "reminder_event" WHERE "reminder_event"."id" = 1 LIMIT 21; args=(1,); alias=default
+GET /events/1/ - Retrieving event
+"GET /api/events/1/ HTTP/1.1" 200 129
+(0.000) SELECT "reminder_event"."id", "reminder_event"."title", "reminder_event"."description", "reminder_event"."date", "reminder_event"."time", "reminder_event"."category" FROM "reminder_event" WHERE "reminder_event"."id" = 1 LIMIT 21; args=(1,); alias=default
+GET /events/1/ - Retrieving event
+"GET /api/events/1/ HTTP/1.1" 200 129
+(0.000) SELECT "reminder_event"."id", "reminder_event"."title", "reminder_event"."description", "reminder_event"."date", "reminder_event"."time", "reminder_event"."category" FROM "reminder_event" WHERE "reminder_event"."id" = 1 LIMIT 21; args=(1,); alias=default
+GET /events/1/ - Retrieving event
+"GET /api/events/1/ HTTP/1.1" 200 129
+GET /events/ - Retrieving all events
+(0.000) SELECT "reminder_event"."id", "reminder_event"."title", "reminder_event"."description", "reminder_event"."date", "reminder_event"."time", "reminder_event"."category" FROM "reminder_event"; args=(); alias=default
+Retrieved 2 events
+"GET /api/events/ HTTP/1.1" 200 261
